@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testmod",
+  "name": "Testmod",
+  "description": "Testmod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Xemrox"],
+  "credits": "Xemrox",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
